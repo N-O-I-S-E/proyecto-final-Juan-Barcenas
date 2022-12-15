@@ -1,0 +1,114 @@
+[
+    {
+        "type": "Entradas",
+        "description": "Dip de mostaza y ciboulette",
+        "price": 1590,
+        "available": false,
+        "source": "images/entrada-1.jpeg"
+    },
+    {
+        "type": "Entradas",
+        "description": "Chips de boniato",
+        "price": 1600,
+        "available": true,
+        "source": "images/chips.jpg"
+    },
+    {
+        "type": "Entradas",
+        "description": "Guacamole",
+        "price": 990,
+        "available": true,
+        "source": "images/guacamole.jpg"
+    },
+    {
+        "type": "Entradas",
+        "description": "Sopa de zapallo",
+        "price": 1200,
+        "available": true,
+        "source": "images/sopa.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Albóndigas con salsa CasanCrem",
+        "price": 1750,
+        "available": true,
+        "source": "images/albondigas.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Pescado a la leche express",
+        "price": 1650,
+        "available": false,
+        "source": "images/pescado.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Carbonada",
+        "price": 1400,
+        "available": true,
+        "source": "images/carbonada.jpg"
+    },
+    {
+        "type": "Principales",
+        "description": "Carne con salsa de chocolate",
+        "price": 1650,
+        "available": true,
+        "source": "images/carne.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Mousse de yogur y frutos rojos",
+        "price": 500,
+        "available": true,
+        "source": "images/mousse.jpeg"
+    },
+    {
+        "type": "Postres",
+        "description": "Cheesecake",
+        "price": 520,
+        "available": true,
+        "source": "images/ches.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Caqui: uno de los integrantes de la lista inteligente de mayo",
+        "price": 590,
+        "available": true,
+        "source": "images/caqui.jpg"
+    },
+    {
+        "type": "Postres",
+        "description": "Arroz con leche",
+        "price": 560,
+        "available": false,
+        "source": "images/arroz.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Cafe",
+        "price": 210,
+        "available": true,
+        "source": "images/cafe.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Vodka Tonic",
+        "price": 560,
+        "available": false,
+        "source": "images/vodka.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Daiquiri frozen",
+        "price": 1100,
+        "available": true,
+        "source": "images/daiquiri.jpg"
+    },
+    {
+        "type": "Bebidas",
+        "description": "Batido de kiwi",
+        "price": 900,
+        "available": true,
+        "source": "images/batido.jpg"
+    }
+]
